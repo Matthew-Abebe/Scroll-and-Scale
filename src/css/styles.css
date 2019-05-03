@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    min-height: 1500px;
+  }
+
+
+#audrey {
+    background-color: purple;
+    color: snow;
+    min-height: 100px;
+    top: 0;
+    width: 50px;
+    position: fixed;
+    transition: 0.2s;
+  }
